@@ -1,0 +1,25 @@
+_repo: Poems_11091
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stoddard, John L. (John Lawson)
+    alias: Stoddard, John Lawson
+    birthdate: 1850
+    deathdate: 1931
+    gutenberg_agent_id: '3837'
+    url: http://www.gutenberg.org/2009/agents/3837
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11091'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+- GITenberg
+title: Poems
+url: http://www.gutenberg.org/ebooks/11091
